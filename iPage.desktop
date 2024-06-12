@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=iPage
+Comment=iPage from icloud
+TryExec=/home/agdala/iPage/iPage
+Exec=/home/agdala/iPage/iPage %u
+Icon=/home/agdala/iPage-linux-x64/resources/app/icon.png
+Terminal=false
+StartupWMClass=iPageDesktop
+Type=Application
+Categories=offices;editor
+MimeType=x-scheme-handler/ipage;
+Keywords=office;iPage;icloud;apple;
+X-GNOME=UsesNotification=true
